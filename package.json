@@ -1,0 +1,11 @@
+{
+  "name": "01-prueba-tarea",
+  "version": "1.0.0",
+  "description": "npm test",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "ana vera",
+  "license": "ISC"
+}
